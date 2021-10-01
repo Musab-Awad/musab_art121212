@@ -304,6 +304,10 @@ html {
   .image-column {
     display: none;
   }
+    .services .services-content {
+    display: flex;
+    justify-content: space-between;
+  }
 }
 
 /* <!-- End services  --> */
